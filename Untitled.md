@@ -11,6 +11,7 @@ date: 2025-09-04T22:37:00
 published: false
 slug: testpage
 description: is officia ut t culpa culpa est. Proident exercitation eiusmod eu labo
+banner: https://media.digitalhippie.xyz/monkey-head.png
 ---
 
 # Set-up Environment
