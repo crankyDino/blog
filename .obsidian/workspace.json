@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing 1... 2... 3....md",
+                "file": "Dummy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Testing 1... 2... 3..."
+              "title": "Dummy"
             }
           }
         ],
@@ -214,10 +214,10 @@
   },
   "active": "0596e53fc0ee30bd",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Testing 1... 2... 3....md",
     "Dummy.md",
     "sample.md",
-    "Testing 1... 2... 3....md",
-    "Untitled.md",
     "Welcome.md"
   ]
 }

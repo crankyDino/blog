@@ -8,6 +8,7 @@ date: 2025-09-04T22:37:00
 published: false
 slug: testpage
 description: is officia ut anim dserunt culpa culpa est. Proident exercitation eiusmod eu labo
+banner: https://media.digitalhippie.xyz/monkey-head.png
 ---
 
 Failed to parse source for import analysis because the content contains invalid JS syntax. You may need to install appropriate plugins to handle the .md file format, or if it's an asset, add "**/*.md" to `assetsInclude` in your configuration.
