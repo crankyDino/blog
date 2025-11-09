@@ -18,17 +18,17 @@ banner: https://media.digitalhippie.xyz/monkey-head.png
 
   
 
->**step I**
+**step I**
 
 - [ ] create `controller` and `node` vm's
 
   
 
->**step II**
+**step II**
 
 - [ ] Apply static IP
 
->back-up before edit - ==skip if container==
+back-up before edit - ==skip if container==
 
 ```sh
 
@@ -36,7 +36,7 @@ sudo nvim /etc/netplan/50-cloud-init.yaml
 
 ```
 
->modify config
+modify config
 
 ```yaml
 
@@ -62,7 +62,7 @@ network:
 
 ```
 
->test connection
+test connection
 
 ```sh
 
@@ -72,7 +72,7 @@ sudo netplan try
 
   
 
->**step IV**
+**step IV**
 
 - [ ] Install Container runtime
 
@@ -102,11 +102,11 @@ containerd config default | sudo tee /etc/containerd/config.toml
 
   
 
->**step V**
+**step V**
 
 - [ ] disable swap
 
-> inspect memory
+ inspect memory
 
 ```sh
 
@@ -114,7 +114,7 @@ free -m
 
 ```
 
->disable if exists | `/etc/fstab`
+disable if exists | `/etc/fstab`
 
 ```sh
 
