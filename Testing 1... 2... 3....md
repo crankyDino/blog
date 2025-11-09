@@ -1,13 +1,14 @@
 ---
-title: testing 1..2..3..
+title: Testing 1... 2... 3...
+slug: Testing 1... 2... 3...
 tags:
   - soapbox
   - whatever
   - pasta
 date: 2025-09-04T22:37:00
 published: false
-slug: testpage
 description: um incididunt ut.
+banner: https://media.digitalhippie.xyz/monkey-head.png
 ---
 # Aliqua
 >id deserunt laboris commodo pariatur.

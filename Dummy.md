@@ -1,12 +1,12 @@
 ---
 title: Dummy
+slug: Dummy
 tags:
   - soapbox
   - whatever
   - pasta
 date: 2025-09-04T22:37:00
 published: false
-slug: testpage
 description: is officia ut anim dserunt culpa culpa est. Proident exercitation eiusmod eu labo
 banner: https://media.digitalhippie.xyz/monkey-head.png
 ---

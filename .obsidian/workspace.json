@@ -4,67 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "616b7cd2d3ae81c5",
+        "id": "764e3fb0cc4d6752",
         "type": "tabs",
         "children": [
           {
-            "id": "3136778b2ff125b7",
+            "id": "9c3999fcbd7578d0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Testing 1... 2... 3....md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Testing 1... 2... 3..."
-            }
-          },
-          {
-            "id": "d404caaee685cfe3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "368fb91d652d94d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dummy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dummy"
-            }
-          },
-          {
-            "id": "0596e53fc0ee30bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f219104379db1e19",
@@ -209,16 +161,15 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "0596e53fc0ee30bd",
+  "active": "9c3999fcbd7578d0",
   "lastOpenFiles": [
-    "Dummy.md",
-    "Untitled.md",
     "Testing 1... 2... 3....md",
     "sample.md",
+    "Untitled.md",
+    "Dummy.md",
     "Welcome.md"
   ]
 }
