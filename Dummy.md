@@ -13,9 +13,6 @@ banner: https://media.digitalhippie.xyz/monkey-head.png
 
 Failed to parse source for import analysis because the content contains invalid JS syntax. You may need to install appropriate plugins to handle the .md file format, or if it's an asset, add "**/*.md" to `assetsInclude` in your configuration.
 
-1 | --- tags: - health - kidney - diabetes aliases: - CKD ---
-
-
 
  ![https://mindthegraph.com/blog/wp-content/uploads/2019/03/preview_69819-2.png|600](https://mindthegraph.com/blog/wp-content/uploads/2019/03/preview_69819-2.png)
 
