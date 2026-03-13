@@ -20,7 +20,7 @@ banner: https://media.digitalhippie.xyz/monkey-head.png
 
 **step I**
 
-- [ ] create `controller` and `node` vm's
+- [x] create `controller` and `node` vm's
 
   
 
