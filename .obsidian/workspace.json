@@ -20,8 +20,39 @@
               "icon": "lucide-file",
               "title": "Untitled"
             }
+          },
+          {
+            "id": "db0dbb7fb6da5206",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
+          },
+          {
+            "id": "073ffb30eb777629",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/Blog Post.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Blog Post"
+            }
           }
+<<<<<<< HEAD
         ]
+=======
+        ],
+        "currentTab": 5
+>>>>>>> 89affb2 (sync)
       }
     ],
     "direction": "vertical"
@@ -78,7 +109,11 @@
       }
     ],
     "direction": "horizontal",
+<<<<<<< HEAD
     "width": 201.50876998901367
+=======
+    "width": 300
+>>>>>>> 89affb2 (sync)
   },
   "right": {
     "id": "f219104379db1e19",
@@ -168,12 +203,28 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "9c3999fcbd7578d0",
   "lastOpenFiles": [
     "Testing 1... 2... 3....md",
     "sample.md",
     "Untitled.md",
     "Dummy.md",
+=======
+  "active": "073ffb30eb777629",
+  "lastOpenFiles": [
+    "Dummy.md",
+    "templates/Blog Post.md",
+    "Untitled.md",
+    "The death of innovation.md",
+    "Testing 1... 2... 3....md",
+    "sample.md",
+    "templates",
+    "2026-07-17.md",
+    "assets/Pasted image 20260709234127.png",
+    "assets",
+    "assets/Pasted image 20260709232316.png",
+>>>>>>> 89affb2 (sync)
     "Welcome.md"
   ]
 }
