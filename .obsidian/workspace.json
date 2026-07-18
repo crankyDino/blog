@@ -4,11 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "764e3fb0cc4d6752",
+        "id": "616b7cd2d3ae81c5",
         "type": "tabs",
         "children": [
           {
-            "id": "9c3999fcbd7578d0",
+            "id": "3136778b2ff125b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Testing 1... 2... 3....md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Testing 1... 2... 3..."
+            }
+          },
+          {
+            "id": "d404caaee685cfe3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "368fb91d652d94d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dummy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dummy"
+            }
+          },
+          {
+            "id": "0596e53fc0ee30bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -39,20 +81,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Blog Post.md",
+                "file": "The death of innovation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Blog Post"
+              "title": "The death of innovation"
             }
           }
-<<<<<<< HEAD
-        ]
-=======
         ],
         "currentTab": 5
->>>>>>> 89affb2 (sync)
       }
     ],
     "direction": "vertical"
@@ -109,11 +147,7 @@
       }
     ],
     "direction": "horizontal",
-<<<<<<< HEAD
-    "width": 201.50876998901367
-=======
     "width": 300
->>>>>>> 89affb2 (sync)
   },
   "right": {
     "id": "f219104379db1e19",
@@ -200,23 +234,16 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-<<<<<<< HEAD
-  "active": "9c3999fcbd7578d0",
-  "lastOpenFiles": [
-    "Testing 1... 2... 3....md",
-    "sample.md",
-    "Untitled.md",
-    "Dummy.md",
-=======
   "active": "073ffb30eb777629",
   "lastOpenFiles": [
-    "Dummy.md",
     "templates/Blog Post.md",
-    "Untitled.md",
     "The death of innovation.md",
+    "Untitled.md",
+    "Dummy.md",
     "Testing 1... 2... 3....md",
     "sample.md",
     "templates",
@@ -224,7 +251,6 @@
     "assets/Pasted image 20260709234127.png",
     "assets",
     "assets/Pasted image 20260709232316.png",
->>>>>>> 89affb2 (sync)
     "Welcome.md"
   ]
 }

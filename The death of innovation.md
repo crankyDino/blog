@@ -8,6 +8,7 @@ date: 2026-07-09T23:11:00
 published: false
 slug: The_death_of_innovation
 description: I'm tired of AI bro. AI this. AI that. AI deez nuts
+banner: https://media.digitalhippie.xyz/monkey-head.png
 ---
 # Diatribe of an old man
 
